@@ -1,0 +1,3 @@
+runs: 10000
+threads: 1000
+sizeFactor: 1
